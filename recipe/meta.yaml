@@ -34,7 +34,7 @@ about:
   license: MIT
   license_family: MIT
   license_file: COPYING
-  summary: 'Standard X key constants and conversion to/from keycodes'
+  summary: Standard X key constants and conversion to/from keycodes
 
 extra:
   recipe-maintainers:
